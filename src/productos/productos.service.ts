@@ -12,6 +12,8 @@ export class ProductosService {
     { id: 1, nombre: 'Teclado mecanico', precio: 45.90 },
     { id: 2, nombre: 'Mouse inalambrico', precio: 19.50 },
     { id: 3, nombre: 'Monitor 24 pulgadas', precio: 129.99 },
+    { id: 4, nombre: 'Monitor 35 pulgadas', precio: 229.99 },
+    { id: 5, nombre: 'Monitor 55 pulgadas', precio: 429.99 },
   ];
 
   findAll(): Producto[] {
