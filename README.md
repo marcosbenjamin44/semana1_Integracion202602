@@ -4,6 +4,13 @@
 
 <p align="center">API REST de catálogo de productos construida con <a href="https://nestjs.com/">NestJS</a>, con un flujo completo de <strong>Integración y Despliegue Continuo (CI/CD)</strong> usando GitHub Actions y Render.</p>
 
+<p align="center">
+  🚀 API en producción: <a href="https://semana1-integracion202602.onrender.com/api/v1/productos">https://semana1-integracion202602.onrender.com/api/v1/productos</a><br/>
+  📖 Documentación Swagger: <a href="https://semana1-integracion202602.onrender.com/api/docs">https://semana1-integracion202602.onrender.com/api/docs</a>
+</p>
+
+> **Nota:** el servicio corre en el plan free de Render, por lo que si nadie lo usa por un tiempo entra en reposo y la primera petición puede tardar unos segundos en responder mientras se reactiva.
+
 ## Tabla de contenidos
 
 - [Descripción](#descripción)
